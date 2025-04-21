@@ -1,2 +1,1 @@
-[![GitHub Streak](https://github-readme-stats-three-rho-69.vercel.app/)](https://git.io/streak-stats)
-
+<img alt="alt" src="https://github-readme-stats-three-rho-69.vercel.app/api?username=yeaniko&show_icons=true&hide_border=true"/>
